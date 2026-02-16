@@ -93,7 +93,7 @@ This table highlights the engineering progression from exploratory R scripts to 
 
 ---
 
-# 🎯 Purpose of This Professional Folder
+# Purpose of This Professional Folder
 
 This professional version demonstrates:
 
